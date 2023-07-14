@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "remixd": "^0.2.4"
+  }
+}
